@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">MovieDB Labs</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="MOVIE_DB_API_KEY" translatable="false">colocarsuaapikey</string>
+    <string name="YOUTUBE_API_KEY" translatable="false">colocarsuaapikey</string>
+    <string name="MOVIE_DB_BASE_URL" translatable="false">https://api.themoviedb.org/3/</string>
+
+    <string name="error_unable_to_load_movie">"Oops, unable to load movide details."</string>
+    <string name="videos">Videos</string>
+    <string name="images">Images</string>
+    <string name="retry">RETRY</string>
+</resources>
