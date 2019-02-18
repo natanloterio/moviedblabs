@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Screengrab.
 
 ### Building
-[![CircleCI](https://circleci.com/gh/natanloterio/moviedblabs.svg?style=svg)](https://circleci.com/gh/natanloterio/moviedblabs)
+
 
 Build dev and production variants.
 
