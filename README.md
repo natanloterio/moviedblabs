@@ -32,9 +32,9 @@ Artifacts will be placed at:
 There are two types of tests, Local Unit Tests and Android Instrumented Tests.
 
 ### Coverage
-[![codecov](https://codecov.io/gh/natanloterio/moviedblabs/branch/master/graph/badge.svg)](https://codecov.io/gh/natanloterio/moviedblabs)
+[![codecov](https://ariya.io/images/2015/08/codecov-sticker.png)](https://codecov.io/gh/natanloterio/moviedblabs)
 
-[![codecovreport](https://codecov.io/gh/natanloterio/moviedblabs/branch/master/graphs/tree.svg)](https://codecov.io/gh/natanloterio/moviedblabs/branch/master/graphs/tree.svg)
+[![codecovreport](https://ariya.io/images/2015/08/codecov-sticker.png)](https://codecov.io/gh/natanloterio/moviedblabs/branch/master/graphs/tree.svg)
 
 ### Local Unit Test
 
