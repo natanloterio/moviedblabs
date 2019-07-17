@@ -69,11 +69,6 @@ Contributions are welcome, please submit a pull request.
 
 We use [SemVer](http://semver.org/) for versioning.
 
-## Authors
-
-* **Natan Lotério** - *Initial work* - [Natan Lotério](https://github.com/natanloterio/)
-
-See also the list of [contributors](https://github.com/natanloterio/moviedblabs/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
